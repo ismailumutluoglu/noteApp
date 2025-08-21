@@ -10,10 +10,3 @@ export const connectDB = async() =>
     process.exit(1);
     }
 };
-
-
-
-
-
-
-// mongodb+srv://ismailumutluoglu10:4fLGIEwybkA1IwJ3@cluster0.l4py1tg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
